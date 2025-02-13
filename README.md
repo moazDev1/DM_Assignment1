@@ -1,3 +1,7 @@
+## **PS**
+> **I’m still learning Python, and this took me longer than expected.**  
+> **The logic seems correct, but the code isn't working as expected.**  
+
 # Assignemnt 1
 
 ## Author
